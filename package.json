@@ -1,0 +1,11 @@
+{
+  "name": "GIT 18",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "--local <MaxNicks98@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  },
+  "scripts": {}
+}
